@@ -7,6 +7,7 @@ package hiveql;
 // Note: this approach to defining a Hive UDAF (ie: extending the UDAF class) has long
 // been deprecated,
 //
+/*
 public class SumLargeSalesUDAF extends org.apache.hadoop.hive.ql.exec.UDAF {
 
     static Double state = new Double(0);
@@ -40,4 +41,4 @@ public class SumLargeSalesUDAF extends org.apache.hadoop.hive.ql.exec.UDAF {
 
     }
 
-}
+}*/
